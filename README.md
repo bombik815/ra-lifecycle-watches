@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/tehf5mrefqx1br30/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-lifecycle-watches/branch/main)
 
 [Мировые часы](https://bombik815.github.io/ra-lifecycle-watches/)
 
